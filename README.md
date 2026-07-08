@@ -1,6 +1,6 @@
 # 📌 GLaDOS  自动签到
 
-一个基于 **GitHub Actions** 的 **GLaDOS 自动签到脚本**。
+一个基于 **GitHub Actions** 的 **GLaDOS 自 动签到脚本**。
  **无需服务器、无需编程基础**，每天自动帮你签到。
 
 --。----
